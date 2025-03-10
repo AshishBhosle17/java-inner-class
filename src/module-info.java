@@ -5,5 +5,5 @@
  * @author YES_GEE
  *
  */
-module sdac {
+module chp9_inner_class {
 }
